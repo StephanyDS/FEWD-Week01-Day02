@@ -1,0 +1,18 @@
+body {
+	font-family: helvetica;
+	background-color: #d3d3d3;
+    border-top: 5px solid #000000;
+    border-bottom: 5px solid #000000;
+}
+
+ul{
+	list-style-type: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+	position: center;
+}
+li {
+	display: inline;
+	position: center;
+}
