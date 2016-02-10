@@ -1,8 +1,18 @@
 body {
 	font-family: helvetica;
-	background-color: #d3d3d3;
+	background-color: #f6f6f6;
     border-top: 5px solid #000000;
     border-bottom: 5px solid #000000;
+}
+
+h1 {
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+	padding-bottom: 0;
+	font-weight: bold;
 }
 
 ul{
@@ -11,8 +21,22 @@ ul{
 	margin-right: 0px;
 	padding: 0px;
 	position: center;
+	font-color: #000000;
 }
+
 li {
 	display: inline;
 	position: center;
+}
+
+p {
+	font-family: times;
+}
+
+a {
+	color: black;
+}
+
+img {
+	float: right;
 }
